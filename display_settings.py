@@ -1,0 +1,14 @@
+# Screen resolution
+SCREEN_WIDTH  = 800
+SCREEN_HEIGHT = 600
+
+# Colors
+BLACK = (0,0,0) 
+WHITE = (255, 255, 255) 
+BLUE = (30,144,255)
+RED = (200,0,0)
+GREEN= (0,200,0)
+BRIGHT_RED = (255,0,0)
+BRIGHT_GREEN = (0,255,0)
+BRIGHT_BLUE = (0,191,255)
+
